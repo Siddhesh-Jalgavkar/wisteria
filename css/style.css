@@ -312,8 +312,8 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 
     position: absolute;
 
-    top: 110px;
-    left: 653px;
+    top: 16%;
+    left: 50%;
 }
 
 .space-text{
@@ -604,7 +604,7 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
     
 }
 .spec-quality-box{
-    float: right;
+    /* float: right; */
     padding-top: 50px;
     padding-left: 30px;
 }

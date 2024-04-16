@@ -47,12 +47,13 @@
 		padding-bottom: 40px;
 	  }
 	  .amenities-slider-arrows{
-		right: 400px;
+		right: 40%;
 	  }
 
 	  .sec6-pad-btm{
 		padding-bottom: 100px;
 	  }
+	  
 /* --------------------------4nd section------------------------------ */
 
 	  .locations-slider-position {
@@ -68,6 +69,21 @@
 	  .get-dirc-box {
 		margin-left: 260px;
     	margin-top: 50px;
+	  }
+
+/* --------------------------5nd section------------------------------ */
+
+	  .spec-quality-box{
+		padding-top: 25px;
+	  }
+
+	  .progress{
+		width: 50%;
+	  }
+
+	  .progressbar-sec{
+		flex-direction: column;
+		gap: 30px;
 	  }
 
 

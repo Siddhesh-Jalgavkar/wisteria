@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<title>Wisteria</title>
+<title>Place icons/anchor tags/elemenst around circular container</title>
 <!--[if lt IE 9]>
 	<script src="dist/html5shiv.js"></script>
 <![endif]-->
@@ -34,7 +34,7 @@
 	</script>
 </head>
 <body>
-<header class="active">
+<header class="">
 	<div class="container pos-rel">
 		<div class="row">
 			<div id="comp-logo">
@@ -49,7 +49,7 @@
 					</div>
 					<div class="col-12 lower">
 						<div class="nav-links">
-							<a href="javascript:;" rel="overview" class="active" data-event-category="Header" data-event-action="Click" data-event-name="Overview">Overview</a>
+							<a href="javascript:;" rel="overview" class="" data-event-category="Header" data-event-action="Click" data-event-name="Overview">Overview</a>
 							<a href="javascript:;" rel="lifestyle" data-event-category="Header" data-event-action="Click" data-event-name="Lifestyle">Highlight</a>
 							<a href="javascript:;" rel="amenities" data-event-category="Header" data-event-action="Click" data-event-name="Amenities">Location</a>
 							<a href="javascript:;" rel="gallery" data-event-category="Header" data-event-action="Click" data-event-name="Gallery">Amenities</a>
@@ -668,59 +668,59 @@
 
 				<div class="spec-wraper">
 
-					<div class="col-8">
+					<div class="col-8 col-md-7">
 						<div class="spec-list-slider">
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 15.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 15.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 373.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 373.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 374.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 374.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 375.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 375.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 376.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 376.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 377.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 377.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 378.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 378.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 379.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 379.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-full" src="images/Mask Group 386.jpg" alt="">
+									<img class="img-responsive" src="images/Mask Group 386.jpg" alt="">
 								</div>
 							</div>
 						</div>
@@ -743,7 +743,7 @@
 
 					</div>
 	
-					<div class="col-4">
+					<div class="col-4  col-md-5">
 						<div class="spec-quality-box">
 							<p class="spec-head">
 								QUALITY. INNOVATION. CRAFTSMANSHIP.

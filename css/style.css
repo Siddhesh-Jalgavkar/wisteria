@@ -297,7 +297,9 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 
 
 /* --------------1st section------------------------- */
-
+.section-first{
+    min-height: 100vh;
+}
 .w-logo{
     width: 167px;
     height: auto;
@@ -345,14 +347,13 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 }
 
 /* --------------------------2nd section------------------------------ */
-
 .welcome-sec{
 
 }
 .para-sec{
     width: 860px;
     float: right;
-    margin: 20px 20px;
+    margin: 20px 0px;
 }
 .img-sec{
     
@@ -442,7 +443,7 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 /* --------------------------4nd section------------------------------ */
 
 .sec4-bg{
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     background-color: #061A57;
     position: relative;
 }
@@ -459,7 +460,7 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 .accessibility-text{
     font-family: 'Quiche Text';
     color: #C4A260;
-    font-size: 46px;
+    font-size: 36px;
     letter-spacing: -1.38px;
     line-height: 56px;
    
@@ -483,10 +484,11 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
     width: 788px;
     margin-top: 30px;
 }
+
 .college-container{
-    display: flex;
+    /* display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between; */
     /* gap: 80px; */
     
     /* z-index: 1; */
@@ -494,6 +496,7 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 
 .college-text{
     font-family: 'Quiche Text';
+    font-weight: 500;
     color: #FFFFFF;
     font-size: 40px;
     letter-spacing: -1.2px;
@@ -501,11 +504,16 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 }
 .college-list-text{
     font-family: "Work Sans", sans-serif;
+    font-weight: 600;
     color: #FFFFFF;
     font-size: 18px;
     letter-spacing: 0px;
     line-height: 36px;
-    width: auto;
+    width: 100%;
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 90% 10%;
+    padding-top: 10px;
 }
 .arrow-btns{
     display: flex;
@@ -516,16 +524,16 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
     top: 30px;
     right: 40px;
 }
-.college-head{
+/* .college-head{
     margin-bottom: 20px;
-}
-.dist-list{
+} */
+/* .dist-list{
     padding-left: 20px;
 }
 .right-box{
     padding: 0 20px;
     margin-top: 64px;
-}
+} */
 
 .get-dirc-box{
     background-color: #D0A860;
@@ -534,7 +542,7 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
     text-align: center;
     border: 1px solid #FFFFFF;
     /* position: absolute; */
-    margin-left: 300px;
+    margin-left: 450px;
     margin-top: 30px;
 }
 .get-dirc-text{
@@ -558,7 +566,7 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 .amenities-head{
     font-family: 'Quiche Text';
     color: #C4A260;
-    font-size: 46px;
+    font-size: 36px;
     letter-spacing: -1.38px;
     line-height: 48px;
     width: 875px;
@@ -611,7 +619,7 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 .spec-head{
     font-family: 'Quiche Text';
     color: #C4A260;
-    font-size: 40px;
+    font-size: 36px;
     letter-spacing: -1.2px;
     line-height: 44px;
     
@@ -630,6 +638,8 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 
 .spec-list-sec{
     background: url(../images/Group\ 116656.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     position: absolute;
     bottom: 40px;
     right: 80px;
@@ -650,7 +660,8 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
     font-size: 16px;
     letter-spacing: 0px;
     line-height: 32px;
-    width: 487px;
+    /* width: 487px; */
+    padding-left: 30px;
 }
 
 .amn-spec-slide-no span {
@@ -695,7 +706,7 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
     font-size: 46px;
     letter-spacing: -1.38px;
     line-height: 48px;
-    width: 329px;
+    /* width: 329px; */
 }
 .about-para-text{
     font-family: "Work Sans", sans-serif;
@@ -734,11 +745,11 @@ footer .lower{background-color: #C4A260;padding:10px 0;font-size: 12px;}
 .progress {
     display: block;
     width: 500px;
-    height: 10px;
+    height: 4px;
     border-radius: 10px;
     overflow: hidden;
     
-    background-color: #f5f5f5;
+    background-color: #D9BF8DA2;
     background-image: linear-gradient(to right, #C4A260, #C4A260);
     background-repeat: no-repeat;
     background-size: 0 100%;

@@ -245,10 +245,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 sec4-pad-btm">
-				<div class="col-6 col-sm-12">
+				<div class="col-5 col-sm-12">
 						<div>
 							<p class="accessibility-text">
-								ACCESSIBILITY. <br>CONVENIENCE. <br>DISTINCTION.
+								ACCESSIBILITY. CONVENIENCE. DISTINCTION.
 							</p>
 	
 							<p class="located-text">
@@ -261,235 +261,110 @@
 								<!-- college -->
 								<div>
 									<div class="college-container">
-										<div class="left-box">
-											<div class="college-head">
-												<p class="college-text">
-													COLLEGES
-												</p>
-											</div>
-						
-											<div class="college-list">
-												<p class="college-list-text">
-													Suryadatta College 
-												</p>
-												<p class="college-list-text">
-													Sanjay Gondawat IIT and Medical College
-												</p>
-												<p class="college-list-text">
-													Padmabhoosan Vasantrao Patil Institute of Technology
-												</p>
-												<p class="college-list-text">
-													Symbiosis College of Arts & Commerce
-												</p>
-											</div>
-										</div>
-						
-										<div class="right-box">
-											
-						
-											<div class="dist-list">
-												<p class="college-list-text">
-													4 min
-												</p>
-												<p class="college-list-text">
-													7 min
-												</p>
-												<p class="college-list-text">
-													12 min
-												</p>
-												<p class="college-list-text">
-													18 min
-												</p>
-											</div>
-										</div>
+
+										<p class="college-text">
+											COLLEGE
+										</p>
+
+										<ul class="college-list-text">
+											<li>Suryadatta College </li>
+											<li>4 min</li>
+											<li>Sanjay Gondawat IIT and Medical College</li>
+											<li>7 min</li>
+											<li>Padmabhoosan Vasantrao Patil Institute of Technology</li>
+											<li>12 min</li>
+											<li>Symbiosis College of Arts & Commerce</li>
+											<li>18 min</li>
+										</ul>
+										
 									</div>
 								</div>	
 
 								<!-- Schools -->
 								<div>
 									<div class="college-container">
-										<div class="left-box">
-											<div class="college-head">
-												<p class="college-text">
-													SCHOOLS
-												</p>
-											</div>
-						
-											<div class="college-list">
-												<p class="college-list-text">
-													Suryadatta College 
-												</p>
-												<p class="college-list-text">
-													Sanjay Gondawat IIT and Medical College
-												</p>
-												<p class="college-list-text">
-													Padmabhoosan Vasantrao Patil Institute of Technology
-												</p>
-												<p class="college-list-text">
-													Symbiosis College of Arts & Commerce
-												</p>
-											</div>
-										</div>
-						
-										<div class="right-box">
-											
-						
-											<div class="dist-list">
-												<p class="college-list-text">
-													4 min
-												</p>
-												<p class="college-list-text">
-													7 min
-												</p>
-												<p class="college-list-text">
-													12 min
-												</p>
-												<p class="college-list-text">
-													18 min
-												</p>
-											</div>
-										</div>
+
+										<p class="college-text">
+											SCHOOLS
+										</p>
+
+										<ul class="college-list-text">
+											<li>GGIS Atha </li>
+											<li>5 min</li>
+											<li>Ryan International School</li>
+											<li>5 min</li>
+											<li>Periwinkle English School</li>
+											<li>5 min</li>
+											<li>Little Millenium School</li>
+											<li>7 min</li>
+										</ul>
+										
 									</div>
-								</div>	
+								</div>		
 
 								<!-- Hospitals -->
 								<div>
 									<div class="college-container">
-										<div class="left-box">
-											<div class="college-head">
-												<p class="college-text">
-													HOSPITALS
-												</p>
-											</div>
-						
-											<div class="college-list">
-												<p class="college-list-text">
-													Suryadatta College 
-												</p>
-												<p class="college-list-text">
-													Sanjay Gondawat IIT and Medical College
-												</p>
-												<p class="college-list-text">
-													Padmabhoosan Vasantrao Patil Institute of Technology
-												</p>
-												<p class="college-list-text">
-													Symbiosis College of Arts & Commerce
-												</p>
-											</div>
-										</div>
-						
-										<div class="right-box">
-											
-						
-											<div class="dist-list">
-												<p class="college-list-text">
-													4 min
-												</p>
-												<p class="college-list-text">
-													7 min
-												</p>
-												<p class="college-list-text">
-													12 min
-												</p>
-												<p class="college-list-text">
-													18 min
-												</p>
-											</div>
-										</div>
+
+										<p class="college-text">
+											HOSPITALS
+										</p>
+
+										<ul class="college-list-text">
+											<li>Opel Hospital </li>
+											<li>5 min</li>
+											<li>Chellaram Hospital</li>
+											<li>3 min</li>
+											<li>Asian Specialty Hospital</li>
+											<li>11 min</li>
+											<li>Apple Specialty Hospital</li>
+											<li>15 min</li>
+										</ul>
+										
 									</div>
 								</div>	
 
 								<!-- Shopping -->
 								<div>
 									<div class="college-container">
-										<div class="left-box">
-											<div class="college-head">
-												<p class="college-text">
-													SHOPPING
-												</p>
-											</div>
-						
-											<div class="college-list">
-												<p class="college-list-text">
-													Suryadatta College 
-												</p>
-												<p class="college-list-text">
-													Sanjay Gondawat IIT and Medical College
-												</p>
-												<p class="college-list-text">
-													Padmabhoosan Vasantrao Patil Institute of Technology
-												</p>
-												<p class="college-list-text">
-													Symbiosis College of Arts & Commerce
-												</p>
-											</div>
-										</div>
-						
-										<div class="right-box">
-											
-						
-											<div class="dist-list">
-												<p class="college-list-text">
-													4 min
-												</p>
-												<p class="college-list-text">
-													7 min
-												</p>
-												<p class="college-list-text">
-													12 min
-												</p>
-												<p class="college-list-text">
-													18 min
-												</p>
-											</div>
-										</div>
+
+										<p class="college-text">
+											SHOPPING
+										</p>
+
+										<ul class="college-list-text">
+											<li>Vishal Shopping Mall </li>
+											<li>4 min</li>
+											<li>Aditya Shagun Mall</li>
+											<li>6 min</li>
+											<li>Bagfull Mart</li>
+											<li>4 min</li>
+											<li>Regent Plaza Mall</li>
+											<li>13 min</li>
+										</ul>
+										
 									</div>
 								</div>	
 
 								<!-- Restaurants -->
 								<div>
 									<div class="college-container">
-										<div class="left-box">
-											<div class="college-head">
-												<p class="college-text">
-													RESTAURANTS
-												</p>
-											</div>
-						
-											<div class="college-list">
-												<p class="college-list-text">
-													Suryadatta College 
-												</p>
-												<p class="college-list-text">
-													Sanjay Gondawat IIT and Medical College
-												</p>
-												<p class="college-list-text">
-													Padmabhoosan Vasantrao Patil Institute of Technology
-												</p>
-												<p class="college-list-text">
-													Symbiosis College of Arts & Commerce
-												</p>
-											</div>
-										</div>
-						
-										<div class="right-box">
-											
-						
-											<div class="dist-list">
-												<p class="college-list-text">
-													4 min
-												</p>
-												<p class="college-list-text">
-													7 min
-												</p>
-												<p class="college-list-text">
-													12 min
-												</p>
-												<p class="college-list-text">
-													18 min
-												</p>
-											</div>
-										</div>
+
+										<p class="college-text">
+											RESTAURANTS
+										</p>
+
+										<ul class="college-list-text">
+											<li>La Bali Bar & Kitchen </li>
+											<li>5 min</li>
+											<li>Oliva Veg Restaurant</li>
+											<li>6 min</li>
+											<li>Planet Nine Bistro</li>
+											<li>10 min</li>
+											<li>The Green House</li>
+											<li>10 min</li>
+										</ul>
+										
 									</div>
 								</div>	
 
@@ -507,7 +382,7 @@
 						</div>
 				</div>
 
-				<div class="col-6 col-sm-12">
+				<div class="col-7 col-sm-12">
 						<div class="map-sec">
 							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60532.54859663268!2d73.768667!3d18.516051!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf0e9e73050f%3A0x6cafeaad488c0698!2sWisteria%20Bavdhan!5e0!3m2!1sen!2sin!4v1711438350911!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						</div>
@@ -667,65 +542,77 @@
 			<div class="col-12 sec6-pad-btm">
 
 				<div class="spec-wraper">
+					<div class="col-sm-12 visible-sm">
+					<div class="spec-quality-box">
+							<p class="spec-head">
+								QUALITY. INNOVATION. CRAFTSMANSHIP.
+							</p>
+		
+							<p class="spec-para">
+								At Wisteria, every detail has been meticulously considered with priority. Each corner of the home space is expertly crafted, utilizing branded and top-notch fittings and fixtures to ensure a living experience that is not only luxurious but also long-lasting and comfortable.
+							</p>
+						</div>	
+					</div>
 
-					<div class="col-8 col-md-7">
+
+					<div class="col-8 col-md-7 col-sm-12">
 						<div class="spec-list-slider">
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 15.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 15.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 373.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 373.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 374.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 374.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 375.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 375.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 376.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 376.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 377.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 377.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 378.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 378.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 379.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 379.jpg" alt="">
 								</div>
 							</div>
 
 							<div>
 								<div class="spec-img-sec">
-									<img class="img-responsive" src="images/Mask Group 386.jpg" alt="">
+									<img class="img-full" src="images/Mask Group 386.jpg" alt="">
 								</div>
 							</div>
 						</div>
 
-						<div class="progressbar-sec">
+						<div class="progressbar-sec hidden-sm">
 							<div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100">
 								<span class="slider__label sr-only"></span>
 							  </div>
@@ -743,8 +630,8 @@
 
 					</div>
 	
-					<div class="col-4  col-md-5">
-						<div class="spec-quality-box">
+					<div class="col-4  col-md-5 col-sm-12">
+						<div class="spec-quality-box hidden-sm">
 							<p class="spec-head">
 								QUALITY. INNOVATION. CRAFTSMANSHIP.
 							</p>
@@ -761,25 +648,28 @@
 										<p class="spec-list-head">
 											Electrical
 										</p>
+
+										<ul class="spec-list-para">
+											<li>
+												Electrical concealed copper wiring with modular switches
+											</li>
+											<li>
+												Ceiling fan points in all room
+											</li>
+											<li>
+												TV cable point in living room
+											</li>
+											<li>
+												Provision for electrical exhaust fan in kitchen and toilets
+											</li>
+											<li>
+												Electrical point in Dry balcony for washing machine
+											</li>
+											<li>
+												Light Point on every terrace
+											</li>
+										</ul>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
 									</div>
 								</div>
 
@@ -789,24 +679,23 @@
 											Structure
 										</p>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
+										<ul class="spec-list-para">
+											<li>
+												Earth quake resistant R.C.C Frame structure
+											</li>
+											<li>
+												External wall
+											</li>
+											<li>
+												Internal wall
+											</li>
+											<li>
+												External sand faced plaster or texture
+											</li>
+											<li>
+												Internal wall & ceiling in putty finish
+											</li>
+										</ul>
 									</div>
 								</div>
 
@@ -816,24 +705,23 @@
 											Doors
 										</p>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
+										<ul class="spec-list-para">
+											<li>
+												Attractive main entrance door with both side laminate with Premium quality fitting and fixtures
+											</li>
+											<li>
+												All room door frames in plywood with molded flush door finish
+											</li>
+											<li>
+												Internal wall
+											</li>
+											<li>
+												External sand faced plaster or texture
+											</li>
+											<li>
+												Bathroom and WC door frame in Granite, doors in PVC
+											</li>
+										</ul>
 									</div>
 								</div>
 
@@ -843,24 +731,20 @@
 											Windows
 										</p>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
+										<ul class="spec-list-para">
+											<li>
+												Aluminum powder coated sliding windows and louvered Windows for toilet
+											</li>
+											<li>
+												Granite frame for all 4 sides of windows
+											</li>
+											<li>
+												Aluminum powder coated sliding door in terrace
+											</li>
+											<li>
+												Safety grills in all windows (Except Dry Balcony)
+											</li>
+										</ul>
 									</div>
 								</div>
 
@@ -870,24 +754,17 @@
 											Kitchen
 										</p>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
+										<ul class="spec-list-para">
+											<li>
+												Granite Kitchen platform with stainless steel sink
+											</li>
+											<li>
+												Glazed tiles dado 4'0"above kitchen Otta
+											</li>
+											<li>
+												Provision for water purify point
+											</li>
+										</ul>
 									</div>
 								</div>
 
@@ -897,24 +774,26 @@
 											Bathroom/Toilets
 										</p>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
+										<ul class="spec-list-para">
+											<li>
+												Electrical concealed copper wiring with modular switches
+											</li>
+											<li>
+												Ceiling fan points in all room
+											</li>
+											<li>
+												TV cable point in living room
+											</li>
+											<li>
+												Provision for electrical exhaust fan in kitchen and toilets
+											</li>
+											<li>
+												Electrical point in Dry balcony for washing machine
+											</li>
+											<li>
+												Light Point on every terrace
+											</li>
+										</ul>
 									</div>
 								</div>
 
@@ -924,24 +803,14 @@
 											Flooring
 										</p>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
+										<ul class="spec-list-para">
+											<li>
+												Vitrified 2 ft. X 4 ft. tile flooring in living room, dining, kitchen, bedroom & passage
+											</li>
+											<li>
+												Anti-skid vitrified 2 X 2 tile in balcony & terrace
+											</li>
+										</ul>
 									</div>
 								</div>
 
@@ -951,24 +820,11 @@
 											Railings
 										</p>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
+										<ul class="spec-list-para">
+											<li>
+												M S railing in balcony
+											</li>											
+										</ul>
 									</div>
 								</div>
 
@@ -978,29 +834,35 @@
 											Paintings
 										</p>
 						
-										<p class="spec-list-para">
-											• Electrical concealed copper wiring with modular switches
-										</p>
-										<p class="spec-list-para">
-											• Ceiling fan points in all room
-										</p>
-										<p class="spec-list-para">
-											• TV cable point in living room
-										</p>
-										<p class="spec-list-para">
-											• Provision for electrical exhaust fan in kitchen and toilets
-										</p>
-										<p class="spec-list-para">
-											• Electrical point in Dry balcony for washing machine
-										</p>
-										<p class="spec-list-para">
-											• Light Point on every terrace
-										</p>
+										<ul class="spec-list-para">
+											<li>
+												Apex external paint
+											</li>
+											<li>
+												OBD for all internal walls
+											</li>
+										</ul>
 									</div>
 								</div>
 
 							</div>
 
+						</div>
+
+						<div class="progressbar-sec visible-sm flex-imp">
+							<div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+								<span class="slider__label sr-only"></span>
+							  </div>
+	
+							<div class="spec-arrow-btns">
+								<div class="spec-prev-arrow">
+									<img src="images/previous.svg" alt="">
+								</div>
+										
+								<div class="spec-next-arrow">
+									<img src="images/next.svg" alt="">
+								</div>
+							</div>
 						</div>
 						
 					</div>
@@ -1018,7 +880,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<div class="col-4">
+				<div class="col-4 col-sm-12">
 					<div class="about-head">
 						<p class="about-head-text">
 							EXPERIENCE. TRUST. EXCELLENCE.
@@ -1026,7 +888,7 @@
 					</div>
 				</div>
 
-				<div class="col-8">
+				<div class="col-8 col-sm-12">
 					<div class="about-para">
 						<p class="about-para-text">
 							At Trimurti, we’re not just a team of professionals; we’re visionaries on a mission to redefine excellence. Since 2008, we’ve been crafting homes that stand as monuments to quality and innovation. With over 400 families already calling our developments home and more than 100,000 sq. ft. of construction completed, Trimurti homes are not just places to live; they’re investments in a brighter future. Join us on this journey toward greatness, where every corner tells a story of dedication, creativity, and unparalleled value.

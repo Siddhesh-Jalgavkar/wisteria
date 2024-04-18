@@ -36,8 +36,8 @@
 		background-size: cover;
 	  }
 	  .banner-text{
-		left: 350px;
-		top: 160px;
+		left: 30%;
+		top: 10%;
 	  }
 	  header .lower .nav-links a{
 		margin-right: 10px;
@@ -54,24 +54,22 @@
 		padding-bottom: 100px;
 	  }
 	  
-/* --------------------------4nd section------------------------------ */
+/* --------------------------4th section------------------------------ */
 
 	  .locations-slider-position {
 		width: 700px;
 	  }
-	  .arrow-btns{
-		right: 50px;
-	  }
+	  
 	  .college-container{
 		/* gap: 60px; */
 		padding: 0px 10px;
 	  }
 	  .get-dirc-box {
-		margin-left: 260px;
+		margin-left: 350px;
     	margin-top: 50px;
 	  }
 
-/* --------------------------5nd section------------------------------ */
+/* --------------------------5th section------------------------------ */
 
 	  .spec-quality-box{
 		padding-top: 25px;
@@ -107,8 +105,18 @@
 	.col-sm-12-5{width: 20%;}
 
 	header .form-container.show{top: 0 !important;bottom: 0 !important;display: block !important;}
-	.menu-icon-mobile{display: block;width: 50px;padding: 14px 8px 4px 8px;background-color: #6b6b6b;border-radius: 0px; margin:0;position: absolute;
-		top:15px;right: 0;height: 40px;}
+	.menu-icon-mobile{
+		display: block;
+		width: 50px;
+		padding: 14px 8px 4px;
+		background-color: transparent;
+		border-radius: 0px; 
+		margin:0;
+		position: absolute;
+		top:15px;
+		right: 20px;
+		height: 40px;
+	}
   .menu-icon-mobile>span{display: block;height: 2px;width: 100%; margin-bottom: 4px;background-color: #fff;}
   .menu-icon-mobile.active>span:nth-child(1) {
   	transform: rotate(45deg);
@@ -137,9 +145,15 @@
   }
   /* .home-banner{background-image: url('https://dummyimage.com/768X1024/6b6b6b/565659&text=ipad-banner');} */
 
+
+  .home-banner{
+	background-position: center;
+	background-size: 100% 100%;
+
+  }
   .banner-text{
-	left: 150px;
-    top: 140px;
+	left: 20%;
+    top: 15%;
   }
 
 /* --------------------------3rd section------------------------------ */
@@ -164,7 +178,7 @@
 	padding-bottom: 30px;
   }
 
-  /* --------------------------4nd section------------------------------ */
+  /* --------------------------4th section------------------------------ */
   .map-sec {
     height: 550px;
     width: 100%;
@@ -178,6 +192,43 @@
   }
   .college-container{
 	/* gap: 130px; */
+  }
+
+  .amenities-head{
+	width: 100%;
+  }
+
+   /* --------------------------5th section------------------------------ */
+
+  .amenities-sec{
+	width: 100%;
+  }
+
+  /* --------------------------6th section------------------------------ */
+
+  .spec-quality-box{
+	width: 100%;
+	padding: 20px 10px;
+  }
+  .spec-list-sec{
+	position: unset;
+	width: 100%;
+  }
+  .flex-imp{
+	display: flex !important;
+  }
+  .progressbar-sec{
+	flex-direction: row-reverse;
+	justify-content: start;
+	padding-top: 20px;
+  }
+  .sec6-pad-btm{
+	padding-bottom: 0;
+  }
+
+  /* --------------------------7th section------------------------------ */
+  .about-head{
+	padding-bottom: 20px;
   }
 
 }
@@ -202,10 +253,17 @@
 	.hidden-xs{display: none !important;}
 	.visible-xs{display: block !important;}
 
-	.menu-icon-mobile{height: 60px;padding:25px 8px 4px 8px;top:-5px;}
+	.menu-icon-mobile{
+		height: 60px;
+		padding:25px 8px 4px;
+		top:-5px;
+	}
 	header{padding:5px 0;}
   	header .nav-links{padding:10px 0;top:55px;}
-  	header .brand-logo img{width: 90px;}
+  	header .brand-logo img{
+		width: 90px;
+		padding-left: 12px;
+	}
 
   	header .form-container{position: fixed !important;left: 0 !important;right: 0 !important;top: 100% !important; bottom: -100% !important; 
   	width: 100% !important; padding: 30px 0 !important; -ms-transform: translate(0, 0); -webkit-transform: translate(0, 0); transform: translate(0, 0);
@@ -219,11 +277,82 @@
 
   .mob-footer{position: fixed;bottom: 0;left: 0;width: 100%;text-align: center;background-color: #fff;font-size: 14px;font-weight: 600;z-index: 999999;}
   .mob-footer a{display: block;line-height: 30px;}
-  .mob-footer a.mob-enq-btn{background-color: #6b6b6b;color: #fff;text-transform: uppercase;font-weight: 600;font-size: 14px;}
-  .mob-footer a.mob-call-btn{background-color: #fff;color: #6b6b6b;text-transform: uppercase;font-weight: 600;font-size: 14px;}
 
-  .home-banner{background-image: url('https://dummyimage.com/320X480/6b6b6b/565659&text=mobile-banner');}
+  .mob-footer a.mob-enq-btn{
+	background-color: #061A57;
+	color: #fff;text-transform: uppercase;
+	font-weight: 600;
+	font-size: 14px;
 }
+  .mob-footer a.mob-call-btn{
+	background-color: #fff;
+	color: #061A57;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 14px;
+}
+
+  /* --------------------------1st section------------------------------ */
+
+  .home-banner{
+	/* background-image: url('https://dummyimage.com/320X480/6b6b6b/565659&text=mobile-banner'); */
+}
+.space-text {
+    font-size: 36px;
+    letter-spacing: 0.58px;
+    line-height: 45px;
+}
+.explore-text {
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 24px;
+}
+.bhk-homes-text {
+    font-size: 19px;
+    letter-spacing: 0px;
+    line-height: 28px;
+}
+.all-incl {
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 28px;
+}
+.banner-text {
+    left: 0%;
+    top: 10%;
+	padding: 15px 10px;
+}
+
+  /* --------------------------5th section------------------------------ */
+
+.arrow-btns{
+	position: unset;
+}
+.college-text {
+    font-size: 30px;
+    letter-spacing: -0.78px;
+    line-height: 44px;
+}
+.college-list-text{
+	grid-template-columns: 75% 25%;
+}
+.college-list-text li:nth-child(2n){
+	text-align: right;
+}
+
+  /* --------------------------6th section------------------------------ */
+
+.amenities-slider-arrows {
+    right: 25%;
+}
+
+  /* --------------------------7th section------------------------------ */
+
+.about-projects-sec{
+	flex-direction: column;
+}
+}
+
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {

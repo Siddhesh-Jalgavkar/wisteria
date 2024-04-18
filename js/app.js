@@ -107,13 +107,15 @@ $(document).ready(function(){
 		});
 		
 		//On Click
+		var headerheight= $('header').height();
+		console.log("headr--"+headerheight);
 		$('.nav-links a').on("click", function(){
 			if(!$(this).hasClass('extLink')) {
 				var href = $(this).attr("rel");
 				if(winWD <= 700)
-					var gap = 45; // $(".header-wrapper").outerHeight(); //Navigation height
+					var gap = headerheight; // $(".header-wrapper").outerHeight(); //Navigation height
 				else
-					var gap = 96;
+					var gap = headerheight;
 				
 				$('html,body').animate({
 					scrollTop: $("#"+href).offset().top - gap
